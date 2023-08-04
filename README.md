@@ -6,7 +6,7 @@ NPM : 202043500201
 
 ### Mata Kuliah Pemrograman Web Lanjut - Y6D
 ### Fitur :
-- Menampilkan Data
+- Menambah Data
 - Melihat Data
 - Menghapus Data
 - Edit Data
