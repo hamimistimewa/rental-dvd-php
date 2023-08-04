@@ -9,14 +9,6 @@ NPM : 202043500201
 - Menampilkan Data
 - Melihat Data
 - Menghapus Data
+- Edit Data
 
-### Dokumentasi
-
-Tampilan Utama <br>
-![halaman utama](https://raw.githubusercontent.com/hamimistimewa/rental-dvd-php/main/halaman-utama-tambah-data.png)
-
-Tambah Film <br>
-![tambah film](https://raw.githubusercontent.com/hamimistimewa/rental-dvd-php/main/tambah-data1.png)
-
-Tampilan list DVD <br>
-![tampilan dvd](https://raw.githubusercontent.com/hamimistimewa/rental-dvd-php/main/tampilan-data.png)
+**Demo**: https://rental-dvd.belajarlinux.id
